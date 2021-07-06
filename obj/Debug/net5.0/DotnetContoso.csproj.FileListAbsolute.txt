@@ -27,3 +27,32 @@ D:\Project\DotnetContoso\obj\Debug\net5.0\DotnetContoso.dll
 D:\Project\DotnetContoso\obj\Debug\net5.0\ref\DotnetContoso.dll
 D:\Project\DotnetContoso\obj\Debug\net5.0\DotnetContoso.pdb
 D:\Project\DotnetContoso\obj\Debug\net5.0\DotnetContoso.genruntimeconfig.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\appsettings.json
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\DotnetContoso.exe
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\DotnetContoso.deps.json
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\DotnetContoso.runtimeconfig.json
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\DotnetContoso.runtimeconfig.dev.json
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\DotnetContoso.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\ref\DotnetContoso.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\DotnetContoso.pdb
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.csproj.AssemblyReference.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.AssemblyInfoInputs.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.AssemblyInfo.cs
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.csproj.CoreCompileInputs.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\staticwebassets\DotnetContoso.StaticWebAssets.Manifest.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\staticwebassets\DotnetContoso.StaticWebAssets.xml
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\scopedcss\bundle\DotnetContoso.styles.css
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.RazorTargetAssemblyInfo.cache
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.csproj.CopyComplete
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\ref\DotnetContoso.dll
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.pdb
+C:\Users\vadsa\Documents\ASP.net Learn\contosopizza\obj\Debug\net5.0\DotnetContoso.genruntimeconfig.cache

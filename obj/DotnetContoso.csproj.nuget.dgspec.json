@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\DotnetContoso\\DotnetContoso.csproj": {}
+    "C:\\Users\\vadsa\\Documents\\ASP.net Learn\\contosopizza\\DotnetContoso.csproj": {}
   },
   "projects": {
-    "D:\\Project\\DotnetContoso\\DotnetContoso.csproj": {
+    "C:\\Users\\vadsa\\Documents\\ASP.net Learn\\contosopizza\\DotnetContoso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\DotnetContoso\\DotnetContoso.csproj",
+        "projectUniqueName": "C:\\Users\\vadsa\\Documents\\ASP.net Learn\\contosopizza\\DotnetContoso.csproj",
         "projectName": "DotnetContoso",
-        "projectPath": "D:\\Project\\DotnetContoso\\DotnetContoso.csproj",
+        "projectPath": "C:\\Users\\vadsa\\Documents\\ASP.net Learn\\contosopizza\\DotnetContoso.csproj",
         "packagesPath": "C:\\Users\\vadsa\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\DotnetContoso\\obj\\",
+        "outputPath": "C:\\Users\\vadsa\\Documents\\ASP.net Learn\\contosopizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vadsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
